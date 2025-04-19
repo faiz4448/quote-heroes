@@ -61,10 +61,14 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi di komputer lokal:
 ## ✨ **Contoh Kutipan**
 
 Berikut adalah beberapa contoh kutipan yang bisa kamu temukan di aplikasi ini:
-
-- *
-
----
+"Plato"
+"Kemenangan atas diri sendiri adalah kemenangan terbesar."
+"Aristoteles"
+"Kita adalah apa yang kita lakukan berulang kali. Maka dari itu, keunggulan bukanlah tindakan, tetapi kebiasaan.
+"Heraclitus",
+"Satu-satunya yang tetap adalah perubahan."
+"Pythagoras",
+"Diam lebih baik daripada kata-kata kosong."
 
 ## 👥 **Kontribusi**
 
@@ -86,5 +90,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Terima kasih sudah mengunjungi repository ini! Semoga kutipan-kutipan dari pahlawan besar dapat memberi semangat bagi kamu di setiap langkah kehidupanmu. 💪✨
 
-Di Buat oleh faiz SMAN22GOWA 
-PROYEK 1 sekolah 1 proggramer handal
+## ❤️ **DI BUAT OLEH FAIZ SMAN 22 GOWA**
+
+## ✨ 1 SEKOLAH 1 PROGGRAMER HANDAL.
+
