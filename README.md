@@ -15,7 +15,7 @@ Proyek ini bertujuan untuk membuat aplikasi web yang menampilkan **kutipan motiv
 - **Quotes Acak**: Setiap kali kamu membuka aplikasi, kamu akan mendapatkan kutipan motivasi yang berbeda dari tokoh-tokoh besar sejarah.
 - **Tampilan Elegan**: Desain minimalis dan modern, dengan latar belakang yang membuat kutipan terasa lebih mendalam.
 - **Responsive**: Bisa diakses dengan baik di berbagai perangkat, baik itu desktop maupun mobile.
-
+- **Style unik**: mencampurkan gradasi warna merah dan kuning,efek hover pada tombol generate,gemerlap bintang pada background,sangat memukau
 ---
 
 ## 🛠 **Teknologi yang Digunakan**
@@ -75,9 +75,9 @@ Berikut adalah beberapa contoh kutipan yang bisa kamu temukan di aplikasi ini:
 Jika kamu ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
 
 1. Fork repository ini.
-2. Buat branch baru dengan nama fitur yang kamu tambahkan (`git checkout -b fitur-xyz`).
-3. Lakukan perubahan yang diinginkan dan commit (`git commit -am 'Menambahkan fitur xyz'`).
-4. Push ke branch baru (`git push origin fitur-xyz`).
+2. Buat branch baru dengan nama fitur yang kamu tambahkan
+3. Lakukan perubahan yang diinginkan dan commit
+4. Push ke branch baru
 5. Kirim pull request untuk melakukan merge ke branch utama.
 
 ---
