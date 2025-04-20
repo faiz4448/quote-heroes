@@ -7,14 +7,36 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- Latar partikel bintang -->
+  <div class="stars" id="stars-container"></div>
+
   <div class="container">
-    <div class="quote-box">
-      <p class="quote" id="quote">Loading quote...</p>
-      <p class="author" id="author">—</p>
-      <button class="button" onclick="generateQuote()">Kutipan Lain</button>
+    <div class="quote-border">
+      <div class="quote-box">
+        <p class="quote" id="quote">Loading quote...</p>
+        <p class="author" id="author">—</p>
+        <button class="button" onclick="generateQuote()">Generate</button>
+        <div class="creator">Created by Faiz - SMAN 22 GOWA</div>
+      </div>
     </div>
   </div>
 
+  <!-- Script utama -->
   <script src="script.js"></script>
+
+  <!-- Script efek bintang -->
+  <script>
+    const starsContainer = document.getElementById("stars-container");
+
+    // Bintang berkedip
+    for (let i = 0; i < 100; i++) {
+      const star = document.createElement("div");
+      star.className = "star";
+      star.style.top = Math.random() * 100 + "vh";
+      star.style.left = Math.random() * 100 + "vw";
+      star.style.animationDelay = Math.random() * 3 + "s";
+      starsContainer.appendChild(star);
+    }
+  </script>
 </body>
 </html>
